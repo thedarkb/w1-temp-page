@@ -1,4 +1,4 @@
-#Temperature Monitoring System
+# Temperature Monitoring System
 
 This script detects all of the sensors on a one wire bus, scrapes the temperature readings from them, and outputs a basic webpage to the standard output which displays the address, the label (if defined), and the temperature reading in a table.
 
